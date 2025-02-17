@@ -1,6 +1,7 @@
 ![logo](https://as2.ftcdn.net/v2/jpg/03/73/81/05/1000_F_373810585_TiCkmXfiV0sBB6RhlcR2RbJOcucsipf2.jpg)
 <h1 align="center">Hi 👋, I'm Ajay sharma</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 📫 How to reach me **ajayvbn2005@gmai.com**
 
